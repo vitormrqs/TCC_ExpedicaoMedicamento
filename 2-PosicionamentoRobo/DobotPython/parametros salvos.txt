@@ -1,0 +1,34 @@
+238x
+135z
+0y
+
+x, y, z
+0 | 238 | 80
+
+170 | 0 | 60
+
+setPosition(junta 2 (45),junta 1,junta 3 (-15),4)
+
+
+setPosition(20,75,0,4) - posição pega gaveta suspenso entrada
+setPosition(20,75,8,4) - posição pega gaveta encostado
+
+
+
+Sleeps
+SetHOMEParams - dSleep(5)
+SetPTPJointParams - dSleep(5)
+SetPTPCommonParams - dSleep(5)
+SetPTPCmd - dSleep(2)
+SetQueuedCmdStartExec - dSleep(5)
+GetQueuedCmdCurrentIndex - dSleep(2)
+SetQueuedCmdStopExec - dSleep(5)
+
+
+
+Primeira Caixa 135
+Segundaa Caixa 194
+Terceira Caixa 267
+Quarta Caixa 345
+
+

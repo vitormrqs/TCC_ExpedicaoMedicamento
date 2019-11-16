@@ -1,0 +1,13 @@
+NPP_SAVE
+cd "$(CURRENT_DIRECTORY)"
+C:\Python\python "$(FILE_NAME)"
+ou
+NPP_SAVE
+cd "$(CURRENT_DIRECTORY)"
+C:\Python3\python "$(FILE_NAME)"*
+ou .....
+NPP_SAVE
+cd "$(CURRENT_DIRECTORY)"
+C:\Python37\python3 "$(FILE_NAME)"
+... etc ....
+Pode criar várias macros ... uma para cada Python instalado
