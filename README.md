@@ -1,5 +1,5 @@
 # Expedição de Medicamentos
-O conteúdo aqui presente aborda os códigos que foram utilizados durante o trabalho de graduação no Instituto Mauá de Tecnologia durante o ano de 2019. Os arquivos que _não estão comentados_ não foram criados por nós e sim pelo sistema ou programa utilizado.
+O conteúdo aqui presente aborda os códigos que foram utilizados durante o trabalho de graduação no Instituto Mauá de Tecnologia durante o ano de 2019. Os arquivos que _não estão comentados_ não são de suma importância para o projeto final.
 
 ## Programas necessários
 Foram utilizados para construir o código:
